@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>자기소개</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        h1 { color: #333; }
+        p { font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>안녕하세요! 👋</h1>
+    <p>저는 웹 개발을 배우고 있는 [문정언]입니다.</p>
+    <p>Python과 Flask를 사용해서 이 웹사이트를 만들었어요!</p>
+</body>
+</html>
